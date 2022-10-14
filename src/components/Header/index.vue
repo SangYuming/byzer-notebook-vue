@@ -2,7 +2,7 @@
 <template>
   <div class="page-header">
     <div class="page-header-left">
-      <span class="page-header-left-logo">昆烟智能生产车间</span>
+      <span class="page-header-left-logo">昆烟智能生产车间123123</span>
       <header-menu v-if="!isLoginPage"></header-menu>
     </div>
     <div class="page-header-right">
